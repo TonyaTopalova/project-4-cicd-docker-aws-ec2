@@ -64,6 +64,16 @@ http://18.193.121.29:5000
 ├── requirements.txt
 └── README.md
 ```
+## Screenshots
+
+### Application Running
+![App](screenshots/app-running.png)
+
+### GitHub Actions Success
+![GitHub Actions](screenshots/github-actions-success.png)
+
+### AWS EC2 Instance
+![EC2](screenshots/ec2-running.png)
 
 ## Author
 
